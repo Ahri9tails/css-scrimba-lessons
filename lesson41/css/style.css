@@ -1,0 +1,38 @@
+
+
+
+
+
+body {
+    background: rgb(45, 55, 65); 
+    color: #be9d40;
+    background-image: url("../image/universe.jpg");
+    background-size: cover;
+    text-align: center;
+    font-family: "Orbitron", sans-serif;
+}
+
+
+.apply-btn {
+    padding: 6px 12px;
+    border-radius: 0%;
+    border: 0;
+    background: white;
+    font-family: inherit;
+}
+
+.underline {
+  border-bottom: 4px solid white;
+}
+
+/* 
+You should use an id when your element is unique and will only be used once.
+class is meant for something to be reused.
+
+
+Challenge:
+add the underline to the title using a span and a class
+*/
+
+ 
+ 

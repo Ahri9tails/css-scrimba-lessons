@@ -1,0 +1,52 @@
+/* 
+
+
+Challenge:
+change the values to match the design in the slide
+
+*/
+
+
+.card {
+    color: #222222;
+    background: lightgray;
+    width: 350px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+
+    border: 4px solid #222222;
+    border-radius: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+
+
+
+ body {
+    background: rgb(45, 55, 65);
+    color: rgb(190, 157, 64);
+    margin: 0px;
+}
+
+/* .main {
+    margin-top: 100px;
+}
+
+.google-img {
+    display: block;
+    width: 300px;
+    margin-bottom: 20px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.searchbar {
+    display: block;
+    width: 400px;
+    margin-right: auto;
+    margin-left: auto;
+}
+  */

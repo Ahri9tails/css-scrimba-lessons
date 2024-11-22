@@ -1,0 +1,24 @@
+/* 
+Challenge:
+change the elements to display: block
+display block, blocks the horizontal space */
+
+body {
+    background: rgb(45, 55, 65);
+    color: rgb(190, 157, 64);
+}
+
+.main {
+    margin-top: 100px;
+}
+
+.searchbar {
+    width: 400px;
+    display: block;
+}
+
+.google-img {
+    width: 300px;
+    display: block;
+}
+

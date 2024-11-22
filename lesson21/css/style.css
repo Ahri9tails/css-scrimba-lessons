@@ -1,0 +1,47 @@
+
+
+
+
+
+ body {
+    background: rgb(45, 55, 65);
+    color: rgb(190, 157, 64);
+    margin: 0px;
+}
+
+.main {
+    margin-top: 100px;
+}
+
+.google-img {
+    display: block;
+    width: 300px;
+    margin-bottom: 20px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+/* 
+Challenge:
+design the search field according to spec
+height of content 24px
+padding above and below 10px
+padding at both sides 30px
+thicnkess of border 1px
+color of corder #dfe1e5
+border raidus: 24px
+line-height is the height of one line of text.
+Is used for input fields.
+*/
+
+.searchbar {
+    display: block;
+    width: 400px;
+    line-height: 24px;
+    padding: 10px 30px;
+    border: 1px solid #dfe1e5;
+    border-radius: 24px;
+    margin-right: auto;
+    margin-left: auto;
+}
+ 

@@ -1,0 +1,32 @@
+
+
+
+
+
+ body {
+    background: rgb(45, 55, 65);
+    color: rgb(190, 157, 64);
+    margin: 20px;
+}
+
+.card-img {
+    width: 150px;
+}
+
+.card {
+    padding: 20px;
+    display: flex;
+}
+
+.dot-border {
+    border: 1px rgb(154, 154, 219) dotted;
+}
+
+/* 
+Challenge:
+Create a utility class for the dotted blue border.
+Give the class to both flexbox children in the HTML
+Give the class to the card as well and remove border from .card
+*/
+
+ 

@@ -1,0 +1,52 @@
+
+
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+
+body {
+    background: rgb(45, 55, 65);
+    color: #be9d40;
+    margin: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.flag {
+    width: 400px;
+    height: 300px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background: white;
+    margin: 0px;
+}
+
+.red-circle {
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
+    background: #BC002D;
+    
+    /* 
+    Challenge:
+    Translate this into using the margin shorthand. 
+    */
+    
+    margin: 40px 0px 40px 120px;
+   
+    /*  margin-top: 40px;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 100px; */
+    
+}
+
+/* 
+Challenge:
+set the font to Verdana, add a font stack
+*/
+
+ 
+ 

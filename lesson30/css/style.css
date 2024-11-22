@@ -1,0 +1,36 @@
+
+
+
+
+
+
+body {
+    background: rgb(45, 55, 65);
+    color: rgb(190, 157, 64);
+    margin: 20px;
+}
+
+.card-img {
+    width: 150px;
+}
+
+.card {
+    padding: 20px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    text-align: justify;
+    justify-content: space-around;
+}
+
+.dot-border {
+    border: 1px rgb(154, 154, 219) dotted;
+}
+
+/* 
+Challenge:
+give the card a width of 400px and center it.
+*/
+
+ 

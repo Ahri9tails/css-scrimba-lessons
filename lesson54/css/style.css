@@ -1,0 +1,111 @@
+
+body {
+    background: #a2d2ff; 
+    color: #ffffff;
+    text-align: center; /* only centers inline elements, not display block */
+    font-family: "Happy Monkey", cursive, sans-serif;
+}
+
+#profile-img {
+  border-radius: 50%; /* maxiumum number an element can have is 50% */
+  width: 150px;
+  border: 6px solid #EFB0C9;
+}
+
+h1, h2, h3, h4, p {
+	text-shadow: 0 0 1px black;
+}
+
+#bday-age {
+	background: #EFB0C9;
+	padding: 5px 10px;
+	border-radius: 5px;
+	margin: 20px 0 0 0;
+}
+
+#bday-date {
+	background: #EFB0C9;
+	padding: 5px 10px;
+	border-radius: 5px;
+	margin: 10px;
+}
+
+#header {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center; /* align items by default is stretch so it 
+	will fill the entire space horizontally*/
+}
+
+.gift-section {
+	margin-top: 50px;
+/* 	display: flex;
+	flex-direction: column;
+	align-items: center; */
+}
+
+.header2-gift {
+	margin: 5px;
+}
+
+.header3-gift {
+	margin: 10px;
+}
+
+/* use margin to center display block elements. */
+.img-gift {
+	margin: 0 auto;
+	width: 400px;
+	height: 400px;
+	border: 6px solid white;
+	border-radius: 5px;
+	background-image: url("../image/gift-cover.jpg");
+	background-size: cover;
+}
+
+#happy-gift:hover {
+	background-image: url("../image/happy.gif")
+}
+
+#hot-gift:hover {
+	background-image: url("../image/hot.gif");
+}
+
+#genius-gift:hover {
+	background-image: url("../image/genius.gif");
+}
+
+#badass-gift:hover {
+	background-image: url("../image/badass.gif");
+}
+
+#cheers-gift {
+	height: 200px;
+}
+
+#cheers-gift:hover {
+	background-image: url("../image/cheers.gif");
+}
+
+#footer-txt {
+	font-style: italic;
+	width: 400px;
+	margin: 40px auto 20px;
+}
+
+#footer-txt a {
+    color: #ffffff;
+}
+
+/*
+Challenge: 
+add the footer paragraph according to the design
+configure the anchor tag to open the link in a new tab
+
+link
+https://scrimba.com/learn/htmlandcss
+
+Want to create your own Birthday GIFt site? Take this HTML & CSS course.
+
+*/

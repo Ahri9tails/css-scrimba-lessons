@@ -1,0 +1,32 @@
+/* 
+Challenge:
+add 100px margin to the bottom of the red box */
+
+body {
+    background: rgb(45, 55, 65);
+    color: rgb(190, 157, 64);
+    margin: 0px;
+}
+
+.red {
+    background: #c71226;
+    height: 100px;
+    /* margin-bottom: 100px; */
+}
+
+/* Challenge:
+Create the flag of Gambia by applying style only to the blue box
+margins overlap or collapse into each other, most of the time.
+*/
+
+.blue {
+    background: #0d1b88;
+    height: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.green {
+    background: #397327;
+    height: 100px;
+}

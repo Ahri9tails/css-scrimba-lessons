@@ -1,0 +1,28 @@
+
+
+
+
+
+ body {
+    background: rgb(45, 55, 65);
+    color: rgb(190, 157, 64);
+    margin: 0px;
+}
+
+.card-img {
+    width: 150px;
+}
+
+.pricing {
+    display: flex;
+}
+
+/* 
+flexbox takes every child and turns it into a column.
+only turns the direct children into columns
+
+Challenge:
+
+*/
+
+ 

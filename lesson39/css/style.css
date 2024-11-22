@@ -1,0 +1,33 @@
+
+
+
+
+
+body {
+    background: rgb(45, 55, 65); 
+    color: #be9d40;
+    background-image: url("../image/universe.jpg");
+    background-size: cover;
+    text-align: center;
+}
+
+.apply-btn {
+    padding: 6px 12px;
+    border-radius: 0%;
+    border: 0;
+    background: white;
+
+    
+
+}
+
+
+/* 
+Challenge:
+center the text and button
+style the button according to the design
+use a class to select the button
+*/
+
+ 
+ 

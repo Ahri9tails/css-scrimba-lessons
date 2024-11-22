@@ -1,0 +1,20 @@
+/* 
+Challenge:
+add some space (margin) to the top of the image*/
+
+body {
+    background: rgb(45, 55, 65);
+    color: rgb(190, 157, 64);
+}
+
+input {
+    width: 400px;
+    display: block;
+}
+
+img {
+    width: 300px;
+    display: block;
+    margin-top: 100px;
+}
+

@@ -1,0 +1,27 @@
+
+
+
+
+
+body {
+    background: rgb(45, 55, 65); 
+    color: #82a5ca;
+    text-align: center;
+    font-family: "Happy Monkey", cursive, sans-serif;
+}
+
+#profile-img {
+  border-radius: 50%; /* maxiumum number an element can have is 50% */
+  width: 150px;
+}
+
+/* 
+Challenge:
+style the app according to the provided design
+the font is called happy monkey
+and can be embedded via google fonts
+
+*/
+
+ 
+ 

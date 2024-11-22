@@ -1,0 +1,24 @@
+/* 
+Challenge:
+add soace between the logo and the search field */
+
+body {
+    background: rgb(45, 55, 65);
+    color: rgb(190, 157, 64);
+    margin: 0px;
+}
+
+.main {
+    margin-top: 100px;
+}
+
+.google-img {
+    display: block;
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+.searchbar {
+    display: block;
+    width: 400px;
+}

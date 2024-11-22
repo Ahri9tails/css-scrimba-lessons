@@ -1,0 +1,20 @@
+/* 
+Challenge:
+change the elements to display: block
+display block, blocks the horizontal space */
+
+body {
+    background: rgb(45, 55, 65);
+    color: rgb(190, 157, 64);
+}
+
+input {
+    width: 400px;
+    display: block;
+}
+
+img {
+    width: 300px;
+    display: block;
+}
+

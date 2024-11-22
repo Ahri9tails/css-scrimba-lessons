@@ -1,0 +1,41 @@
+
+
+
+
+
+body {
+    background: rgb(45, 55, 65); 
+    color: #be9d40;
+    background-image: url("../image/universe.jpg");
+    background-size: cover;
+    text-align: center;
+    font-family: "Orbitron", sans-serif;
+}
+
+/* // <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 400 to 900 */
+
+/* .orbitron-<uniquifier> {
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+} */
+
+.apply-btn {
+    padding: 6px 12px;
+    border-radius: 0%;
+    border: 0;
+    background: white;
+    font-family: inherit;
+}
+
+
+/* 
+Challenge:
+set the font family in the body
+change something in the .apply-btn class
+*/
+
+ 
+ 

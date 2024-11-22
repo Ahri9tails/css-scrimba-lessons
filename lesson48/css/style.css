@@ -1,0 +1,31 @@
+
+
+
+
+
+body {
+    background: #a2d2ff; 
+    color: #ffffff;
+    text-align: center;
+    font-family: "Happy Monkey", cursive, sans-serif;
+}
+
+#profile-img {
+  border-radius: 50%; /* maxiumum number an element can have is 50% */
+  width: 150px;
+  border: 6px solid #EFB0C9;
+}
+
+h1, h2, h3, h4, p {
+	text-shadow: 0 0 1px black;
+}
+
+
+/* 
+add a thin blurred border around the <h1>, <h2>, and <h4>
+using the text-shadow technique. Set blur to 1px and the
+color to black.
+*/
+
+ 
+ 

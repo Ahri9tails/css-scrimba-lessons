@@ -1,0 +1,28 @@
+
+
+
+
+
+body {
+    background: #a2d2ff; 
+    color: #ffffff;
+    text-align: center;
+    font-family: "Happy Monkey", cursive, sans-serif;
+}
+
+#profile-img {
+  border-radius: 50%; /* maxiumum number an element can have is 50% */
+  width: 150px;
+  border: 6px solid #EFB0C9;
+}
+
+/* 
+add colors to the site based on the provided design
+
+pink: #EFB0C9
+blue: #a2d2ff
+white #ffffff
+*/
+
+ 
+ 

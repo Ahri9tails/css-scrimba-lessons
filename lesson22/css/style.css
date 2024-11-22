@@ -1,0 +1,46 @@
+
+
+
+
+
+ body {
+    background: rgb(45, 55, 65);
+    color: rgb(190, 157, 64);
+    margin: 0px;
+}
+
+.main {
+    margin-top: 100px;
+}
+
+.google-img {
+    display: block;
+    width: 300px;
+    margin-bottom: 20px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+/* 
+Challenge:
+Center the button and add some space above it
+margin auto requires a width and display: block
+*/
+.search-btn {
+    display: block;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.searchbar {
+    display: block;
+    width: 400px;
+    line-height: 24px;
+    padding: 10px 30px;
+    border: 1px solid #dfe1e5;
+    border-radius: 24px;
+    margin-right: auto;
+    margin-left: auto;
+}
+ 

@@ -1,0 +1,28 @@
+
+
+
+
+
+ body {
+    background: rgb(45, 55, 65);
+    color: rgb(190, 157, 64);
+    margin: 0px;
+}
+
+.card-img {
+    width: 150px;
+}
+
+.card {
+    border: 1px rgb(154, 154, 219) dotted;
+    padding: 20px;
+}
+
+/* 
+Challenge:
+Give the card div a class  name it "card"
+Select the card class and give it a dotted blue border
+add 20px of padding on all sides of the card
+*/
+
+ 
